@@ -1,11 +1,11 @@
 ---
-title: PSU-PhotoGallary
-date: 2020-05-14T06:14:34+00:00
+title: New Ubdate
+date: 
 image: images/post/post-1.jpg
 author: John Doe
 description: This is meta description.
 categories:
-- Green Tree
+- " Art Aword of 2002"
 tags:
 - green
 - tree
