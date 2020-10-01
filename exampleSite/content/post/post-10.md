@@ -8,7 +8,6 @@ categories:
 - black&white
 tags:
 - black&white
-draft: true
 
 ---
 Owner : Phada
