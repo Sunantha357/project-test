@@ -40,9 +40,9 @@ sections:
   match: "*.toml"
   new_doc_ext: toml
 upload_dir: exampleSite/static/images/post
-public_path: "/images"
+public_path: "/images/post"
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
