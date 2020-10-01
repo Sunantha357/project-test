@@ -7,8 +7,7 @@ description: This is meta description.
 categories:
 - Nature of life
 tags:
-- book
-- memo
+- Natrue
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
