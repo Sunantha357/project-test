@@ -1,6 +1,6 @@
 ---
 title: 'I''m a Freelance Interactive Art Director '
-image: images/author.jpg
+image: images/not2.jpg
 description: ''
 
 ---
