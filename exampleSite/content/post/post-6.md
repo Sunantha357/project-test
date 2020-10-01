@@ -1,5 +1,5 @@
 ---
-title: ฉoncealed
+title: Concealed
 date: 
 image: images/post/post-4.jpg
 author: ''
