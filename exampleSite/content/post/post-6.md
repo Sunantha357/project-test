@@ -1,7 +1,7 @@
 ---
 title: Concealed
 date: 
-image: " images/post/1206517360003_2.jpg"
+image: images/post/1206517360003_2.jpg
 author: ''
 description: ''
 categories:
