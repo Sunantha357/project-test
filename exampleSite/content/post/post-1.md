@@ -1,5 +1,5 @@
 ---
-title: New Ubdate
+title: New Update
 date: 
 image: images/post/post-1.jpg
 author: John Doe
