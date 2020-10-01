@@ -1,13 +1,13 @@
 ---
-title: adamant
+title: Adamant
 date: 
 image: images/post/post-5.jpg
 author: ''
 description: ''
 categories:
-- ืNature on life
+- black&white
 tags:
-- Nature
+- black&white
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
