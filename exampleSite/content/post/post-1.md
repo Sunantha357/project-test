@@ -4,12 +4,8 @@ date:
 image: images/post/post-1.jpg
 author: ''
 description: ''
-categories:
-- Started an exhibition of Star On Your Eyes
-- " Art Aword of 2002"
-tags:
-- green
-- tree
+categories: []
+tags: []
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
