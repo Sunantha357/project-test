@@ -1,4 +1,4 @@
-baseURL = "https://PSUPhotoGallary.com"
+baseURL = "https://PSUPhotoGallary.netlify.com"
 disqusShortname = ""
 languageCode = "en-us"
 languageName = "En"
