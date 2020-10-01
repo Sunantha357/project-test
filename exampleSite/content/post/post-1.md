@@ -3,8 +3,9 @@ title: New Ubdate
 date: 
 image: images/post/post-1.jpg
 author: John Doe
-description: This is meta description.
+description: ''
 categories:
+- Started an exhibition of Star On Your Eyes
 - " Art Aword of 2002"
 tags:
 - green
