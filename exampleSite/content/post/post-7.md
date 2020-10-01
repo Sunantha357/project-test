@@ -1,14 +1,15 @@
 ---
-title: "Networks and the Nature of the Firm"
-date: 2020-01-12T12:14:34+06:00
-image: "images/post/post-6.jpg"
-author: "John Doe" # use capitalize
-description: "This is meta description."
-categories: ["nature"]
-tags: ["thumb", "video", "top"]
-draft: false
----
+title: Glum
+date: 
+image: images/post/post-6.jpg
+author: ''
+description: ''
+categories:
+- Flower
+tags:
+- Flower
 
+---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
 ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
