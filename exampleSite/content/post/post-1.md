@@ -2,10 +2,9 @@
 title: New Update
 date: 
 image: images/post/post-1.jpg
-author: John Doe
+author: ''
 description: ''
 categories:
-- GREEN TREE
 - Started an exhibition of Star On Your Eyes
 - " Art Aword of 2002"
 tags:
