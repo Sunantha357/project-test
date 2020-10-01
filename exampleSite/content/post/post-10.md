@@ -1,7 +1,7 @@
 ---
 title: Adamant
 date: 
-image: "/post-10.jpg"
+image: "/post/post-4.jpg"
 author: ''
 description: ''
 categories:
