@@ -1,7 +1,7 @@
 ---
 title: belief
 date: 
-image: "/tammachat1.jpg"
+image: images/post/tammachat1.jpg
 author: ''
 description: ''
 categories:
